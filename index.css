@@ -1,0 +1,8 @@
+body{
+    background: rgb(37, 24, 61);
+}
+canvas{
+    background: #6666;
+    width: 900px;
+    height: 900px;
+}
